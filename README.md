@@ -38,4 +38,4 @@ To evaluate and compare the performance of machine learning models for predictin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/term-deposit-prediction.git
+   git clone https://github.com/srijanbea/Customer-Term-Deposit-Prediction-Using-Machine-Learning
